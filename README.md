@@ -1,6 +1,6 @@
-# [Productime](http://startbootstrap.com/)
+# [Productime](http://shalziekay.github.io/productime/)
 
-[Productime](http://startbootstrap.com/template-overviews/grayscale/) is a free online organizer created by [Shalini Kunapuli](http://startbootstrap.com/) to help you be productive with your time. 
+[Productime](http://shalziekay.github.io/productime/) is a free online organizer created by [Shalini Kunapuli](https://www.linkedin.com/in/shalinikunapuli) to help you be productive with your time. 
 
 ## Mission Statement
 
